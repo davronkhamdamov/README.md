@@ -10,3 +10,8 @@ $ npm install
 ```bash
 # development
 $ npm run start
+
+
+```
+# development
+$ npm run start
